@@ -1,0 +1,16 @@
+****Code review feedback from Ebesoh******************
+#Task1
+## Din kod ser bra ut, men när man matar in 300 (level 2) eller 100 (level1) så appliceras ingen rabatt. 
+## Om du uppdaterar rad 11 och 8 i din kod med >= kan det lösa problemet. is_member variable är oanvänd? 
+
+#Task2 
+## Koden ser bra och uppfylla kravet! Bra jobbet!
+
+#Task3 
+## Koden ser bra och uppfylla kravet! Bra jobbet!Grymt att du lagt dina testfall! 
+
+#Task4 
+## Koden ser bra och uppfylla kravet! Bra jobbet!
+
+#Task5
+## Koden ser bra och uppfylla kravet! Bra jobbet!
